@@ -1,1 +1,1 @@
-# Data-modelling-and-visualization
+# Applied Data-modelling and Visualization
